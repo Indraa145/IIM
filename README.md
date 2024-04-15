@@ -1,8 +1,8 @@
 # How to run (test and visualization)
 
 1. Download these file:
-   * PretrainedModels: ...
-   * ProcessedData: ...
+   * PretrainedModels: https://kowondongseoackr-my.sharepoint.com/:f:/g/personal/20215136_office_dongseo_ac_kr/EvpaPdTGe2dOrRUALLa8HssBzgJXpZj_is6K0GHqpb9ydA?e=VNIxbY 
+   * ProcessedData: https://kowondongseoackr-my.sharepoint.com/:f:/g/personal/20215136_office_dongseo_ac_kr/EgzuHL5-z_hLqy7FoTgNMEkBgvpJEDLVSFsq9Cq4gIjgXA?e=2D4Ubl 
 2. The file structure should be like this:
 
  ```
